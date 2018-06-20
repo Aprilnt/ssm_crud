@@ -1,0 +1,31 @@
+{
+  "ecmaVersion": 5,
+  "plugins": {
+    "guess-types": {
+      
+    },
+    "outline": {
+      
+    },
+    "chrome-apps": {
+      
+    },
+    "chrome-extension": {
+      
+    },
+    "extjs4.2.1": {
+      
+    },
+    "angular1": {
+      
+    },
+    "bootstrap": {
+      
+    }
+  },
+  "libs": [
+    "ecma5",
+    "browser",
+    "jquery"
+  ]
+}
